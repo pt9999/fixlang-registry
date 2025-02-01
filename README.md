@@ -2,9 +2,9 @@
 
 ## Overview
 
-The registry.toml file in this repository is the default registry file that the [fixlang](https://github.com/tttmmmyyyy/fixlang) compiler refers to by default.
+This repository provides the default registry file that is referred to by the dependency management feature of the [fixlang](https://github.com/tttmmmyyyy/fixlang) compiler.
 
-For example, the "math" project is registered in the registry.toml:
+For example, since the "math" project is registered in the [registry.toml](registry.toml) file,
 
 ```
 [[projects]]
@@ -12,7 +12,7 @@ name = "math"
 git = "https://github.com/tttmmmyyyy/fixlang-math.git"
 ```
 
-When you use it in your Fix project, run "fix deps add math".
+you can add "math" project to your project by running `fix deps add math`.
 
 ## Add your Fix project
 
