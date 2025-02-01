@@ -1,4 +1,4 @@
-# The default registry of fix-lang
+# The default registry of Fix programming language
 
 ## Overview
 
