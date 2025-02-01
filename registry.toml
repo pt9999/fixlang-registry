@@ -1,47 +1,59 @@
 [[projects]]
 name = "asynctask"
 git = "https://github.com/tttmmmyyyy/fixlang-asynctask.git"
+description = "Provides a way to run tasks asynchronously."
 
 [[projects]]
 name = "character"
 git = "https://github.com/tttmmmyyyy/fixlang-character.git"
+description = "provides wrapper of C functions defined in ctypes.h."
 
 [[projects]]
 name = "hash"
 git = "https://github.com/tttmmmyyyy/fixlang-hash.git"
+description = "Provides the `Hash` trait and related traits, and basic hashing functions."
 
 [[projects]]
 name = "hashmap"
 git = "https://github.com/tttmmmyyyy/fixlang-hashmap.git"
+description = "Provides the `HashMap` type."
 
 [[projects]]
 name = "hashset"
 git = "https://github.com/tttmmmyyyy/fixlang-hashset.git"
+description = "Provides the `HashSet` type."
 
 [[projects]]
 name = "math"
 git = "https://github.com/tttmmmyyyy/fixlang-math.git"
+description = "Provides wrapper of C functions defined in math.h."
 
 [[projects]]
 name = "random"
 git = "https://github.com/tttmmmyyyy/fixlang-random.git"
+description = "Provides random number generators."
 
 [[projects]]
 name = "regexp"
 git = "https://github.com/tttmmmyyyy/fixlang-regexp.git"
+description = "Provides regular expression matching."
 
 [[projects]]
 name = "subprocess"
 git = "https://github.com/tttmmmyyyy/fixlang-subprocess.git"
+description = "Provides a way to run subprocesses."
 
 [[projects]]
 name = "time"
 git = "https://github.com/tttmmmyyyy/fixlang-time.git"
+description = "Provides functions related to time and date."
 
 [[projects]]
 name = "binary-heap"
 git = "https://github.com/tttmmmyyyy/fixlang-binary-heap.git"
+description = "provides a binary heap implementation."
 
 [[projects]]
 name = "fast-iter"
 git = "https://github.com/tttmmmyyyy/fixlang-fast-iter.git"
+description = "High performance iterator library."
