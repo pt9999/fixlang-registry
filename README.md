@@ -19,5 +19,5 @@ When you use it in your Fix project, run "fix deps add math".
 If you kindly add your Fix project to this registry, other people can easily use your project.
 In this case, please create a Pull Request to change the registry.toml file.
 
-Please note that Fix cannot use projects with the same name in the same project.
-Therefore, it is recommended to use a unique name for the module.
+Please note that Fix cannot use multiple modules with the same name in the same project.
+Therefore, it is recommended to give an unique name for your module.
